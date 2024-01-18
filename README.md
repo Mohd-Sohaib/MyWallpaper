@@ -18,6 +18,7 @@
 - Retrofit
 - Picasso
 - Glide
+- MVVM
 
 ## ScreenShot
 
